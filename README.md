@@ -1,5 +1,3 @@
-Certainly! Here’s an updated README for your project:
-
 ---
 
 # A Comparative Analysis of Optimized Routing Protocols for High-Performance Mobile Ad Hoc Networks
