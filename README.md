@@ -14,7 +14,6 @@ In this research paper, we present a comprehensive study of various routing prot
   - **Genetic Algorithm**
 
 - **Tools and Libraries**:
-  - NS2 (Network Simulator 2)
   - NetworkX (Python library for network analysis)
 
 - **Optimization Criteria**:
