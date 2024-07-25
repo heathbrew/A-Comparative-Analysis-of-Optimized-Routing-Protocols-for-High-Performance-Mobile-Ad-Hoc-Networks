@@ -36,4 +36,4 @@ For a detailed explanation of our methods, results, and conclusions, please refe
 
 ---
 
-Feel free to adjust any details according to your preferences or additional information.
+Feel free to adjust any details according to your preferences or additional information
